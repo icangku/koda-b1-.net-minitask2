@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Minitask.Console/Minitask.Console.csproj" />
+  </Folder>
+</Solution>
